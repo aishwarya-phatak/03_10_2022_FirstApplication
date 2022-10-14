@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("Welcome to iOS September Batch!")
         bindDataToViews()
     }
     
